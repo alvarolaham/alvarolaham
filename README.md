@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+- 🔭 **I’m currently working on:** A Powerball web application. 
+- 🌱 **I’m currently learning:** I am looking to finish watching the CS50 lectures for web development, AI, and SQL
+
 ![YourGitHubName's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarolaham&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolaham&layout=compact&theme=radical)
 
-- 🔭 **I’m currently working on:** A Powerball web application. 
-- 🌱 **I’m currently learning:** I am looking to finish watching the CS50 lectures for web development, AI, and SQL
+
 
 <!--
 **alvarolaham/alvarolaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
