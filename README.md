@@ -7,7 +7,7 @@
 
 I have completed over **250** coding problems. 
 
-Check how I code here 👉 https://www.codewars.com/users/alvarolaham
+Check my solutions here 👉 https://www.codewars.com/users/alvarolaham
 
 ![Codewars Badge](https://www.codewars.com/users/alvarolaham/badges/large)
 
