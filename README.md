@@ -5,6 +5,7 @@
   
 ---
 
+I have completed over **250** coding problems. Check how I code here 👇
 
 ![Codewars Badge](https://www.codewars.com/users/alvarolaham/badges/large)
 
