@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently working on:** A Powerball web application. 
-- 🌱 **I’m currently learning:** I am looking to finish watching the CS50 lectures for web development, AI, and SQL
+- 🔭 **I’m currently working on:** On-demand platform that connect users with local service providers in Puerto Rico. 
+- 🌱 **I’m currently learning:** ML and Data Analytics
   
 ---
 
