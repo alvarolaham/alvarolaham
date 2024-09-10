@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 **I’m currently working on:** On-demand platform that connect users with local service providers in Puerto Rico. 
-- 🌱 **I’m currently learning:** ML and Data Analytics
+- 🌱 **I’m currently learning:** Data Analytics, Data Structures & Algorithms
   
 ---
 
-I have completed over **250** coding problems. 
+I have completed over **300** coding problems. 
 
 Check my solutions here 👉 https://www.codewars.com/users/alvarolaham
 
