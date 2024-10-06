@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently working on:** On-demand platform that connect users with local service providers in Puerto Rico. 
-- 🌱 **I’m currently learning:** Data Analytics, Data Structures & Algorithms
+- 🔭 **I’m currently working on:** My Master's degree in Data Science at UC Berkeley
+- 🌱 **I’m currently learning:** Data Science, Machine Learning, and AI
   
 ---
 
